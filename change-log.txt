@@ -1,0 +1,183 @@
+Version : 0.02
+
+Date : 13th October 2016
+
+CHANGE LOG
+----------
+- NEW : Add New Variation Stars Effect
+- NEW : Add New Variation Particle Effect
+- UPDATE : Bug Fixes & Code Improvement 
+
+
+FILE CHANGED
+------------
+- css/nc-responsive.css
+- css/nc-main.css
+
+FILE ADDED
+----------
+- index-4.html
+- index-5.html
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Version : 0.03
+
+Date : 14th October 2016
+
+CHANGE LOG
+----------
+- NEW : Add New Variation Self-Hosted Video Background
+- NEW : Add New Variation Cloud Background Effect
+
+FILE CHANGED
+------------
+- none
+
+FILE ADDED
+----------
+- images/video/
+- index-6.html
+- index-7.html
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Version : 0.04
+
+Date : 15th October 2016
+
+CHANGE LOG
+----------
+- NEW : Introduce Theme Style
+- NEW : Introduce New Layout
+- UPDATE : Structure Update
+
+FILE CHANGED
+------------
+- Improve Structure 
+- NOTE : Please take backup before any file replacement 
+
+FILE ADDED
+----------
+- default-2.html
+- default-2-dark.html
+- default-1-dark.html
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Version : 0.05
+
+Date : 17th October 2016
+
+CHANGE LOG
+----------
+- NEW : Introduce New Layout
+- UPDATE : Improve Code
+
+FILE CHANGED
+------------
+css/nc-main.css
+css/helper.css
+
+FILE ADDED
+----------
+- default-3.html
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Version : 0.06
+
+Date : 19th October 2016
+
+CHANGE LOG
+----------
+- NEW : Background Effect : 3D-Snow
+
+FILE CHANGED
+------------
+- none
+
+FILE ADDED
+----------
+- index-8.html
+- lib/snow-3d
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Version : 0.07
+
+Date : 22th October 2016
+
+CHANGE LOG
+----------
+- NEW : Product Showcase Demo
+- UPDATE : Improve Code & Structure
+
+FILE CHANGED
+------------
+- css/nc-main.css
+- css/nc-responsive.css
+- css/nc-structure.css
+- css/helper.css
+
+FILE ADDED
+----------
+- index-9.html
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Version : 0.08
+
+Date : 27th October 2016
+
+CHANGE LOG
+----------
+- NEW : Background Animation Effect
+- NEW : Flat Background (index-10.html)
+
+FILE CHANGED
+------------
+- none
+
+FILE ADDED
+----------
+- index-10.html
+- lib/bg-animation
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Version : 0.09
+
+Date : 7th November 2016
+
+CHANGE LOG
+----------
+- NEW : Introduce New Layout & PopUp Style
+
+FILE CHANGED
+------------
+- css/helper.css
+
+FILE ADDED
+----------
+- default-4.html
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Version : 1.0
+
+Date : 11th November 2016
+
+CHANGE LOG
+----------
+- NEW : Mini Site Layout
+
+FILE CHANGED
+------------
+- css/helper.css
+- css/nc-responsive.css
+
+FILE ADDED
+----------
+- default-5.html
